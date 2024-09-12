@@ -69,8 +69,8 @@ Save the final modified image to your local directory.
 
 ## Program:
 ```
-Developed By: Gopika R
-Register Number: 212222240031
+Developed By: LISIANA T
+Register Number: 212222240053
 ```
 
 ### i) Read and Display an Image
